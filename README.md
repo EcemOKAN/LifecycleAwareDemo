@@ -1,7 +1,9 @@
 # LifecycleAwareDemo
 
-Blog yazısı için aşağıdaki linke tıklayabilirsiniz.
+**Android Architecture Components ve Lifecycle-aware Components nedir?** 
+**Neden Lifecycle-aware Components ‘e ihtiyaç duyulur?** 
 
+Blog yazısı için aşağıdaki linke tıklayabilirsiniz.
 
 [https://www.mshowto.org/android-architecture-components-lifecycle-aware-components.html](url)
 
